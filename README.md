@@ -5,6 +5,7 @@ En handbroms byggd på raspberry pi pico för sim-racing
 * Raspberry pi pico
 * HW-504 joystick
 * Micro usb sladd
+* Jumper wires (M - F)
 * Kardborreband
 * Handtag för handbroms
 * Bottenplatta för montering

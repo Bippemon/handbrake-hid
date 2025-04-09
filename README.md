@@ -1,6 +1,6 @@
-# Handbroms med pico
+# Simracing handbroms med pico
 En handbroms byggd på raspberry pi pico för sim-racing
-
+Kontrollen håller in Spacebar när man håller joystick över threshold åt "höger"
 
 ## Hårdvara
 * Raspberry pi pico

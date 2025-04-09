@@ -20,15 +20,15 @@ En handbroms byggd på raspberry pi pico för sim-racing
 
 
 ## Step by step
-#### Ladda ner CircuitPython + CircuitPython library
+##### - Ladda ner CircuitPython + CircuitPython library
 * CircuitPython - https://circuitpython.org/board/raspberry_pi_pico/
 * CircuitPython library - https://circuitpython.org/libraries
-#### Starta pico i BOOTSEL mode
-#### Kopiera mappen "lib/adafruit_hid" -> Pico "/lib"
-#### Kopiera code.py & boot.py till Pico
-#### Starta om
+##### - Starta pico i BOOTSEL mode
+##### - Kopiera mappen "lib/adafruit_hid" -> Pico "/lib"
+##### - Kopiera code.py & boot.py till Pico
+##### - Starta om
 
-#### Att fixa
+##### Att fixa
 * Handtag
 * Bottenplatta i trä (8-9cm) X 9cm
 * Minst 8st skruv (3mm breda hål)

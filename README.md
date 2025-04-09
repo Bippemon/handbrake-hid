@@ -1,6 +1,7 @@
 # Handbroms med pico
 En handbroms byggd på raspberry pi pico för sim-racing
 
+
 ## Hårdvara
 * Raspberry pi pico
 * HW-504 joystick
@@ -11,11 +12,21 @@ En handbroms byggd på raspberry pi pico för sim-racing
 * Bottenplatta för montering
 * Skruv för montering
 
+
 ## Mjukvara
 * CircuitPython
 * Thonny
 * Git
 
+
+## Step by step
+#### Ladda ner CircuitPython + CircuitPython library
+* CircuitPython - https://circuitpython.org/board/raspberry_pi_pico/
+* CircuitPython library - https://circuitpython.org/libraries
+#### Starta pico i BOOTSEL mode
+#### Kopiera mappen "lib/adafruit_hid" -> Pico "/lib"
+#### Kopiera code.py & boot.py till Pico
+#### Starta om
 
 #### Att fixa
 * Handtag
@@ -23,7 +34,5 @@ En handbroms byggd på raspberry pi pico för sim-racing
 * Minst 8st skruv (3mm breda hål)
 
 
-## Länkar
-#### CircuitPython - https://circuitpython.org/board/raspberry_pi_pico/
-#### CircuitPython library - https://circuitpython.org/libraries 
+
 Kopiera "adafrui_bus_device" och "adafruit_hid" till /lib på pico

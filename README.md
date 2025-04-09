@@ -20,20 +20,20 @@ Kontrollen håller in Spacebar när man håller joystick över threshold åt "h�
 
 
 ## Step by step
-##### - Kopplingar Joystick -> Pico
+### - Kopplingar Joystick -> Pico
 * GND -> Ground
 * +5V -> 3V3
 * VRX -> GPIO27
-##### - Ladda ner CircuitPython + CircuitPython library
+### - Ladda ner CircuitPython + CircuitPython library
 * CircuitPython - https://circuitpython.org/board/raspberry_pi_pico/
 * CircuitPython library - https://circuitpython.org/libraries
-##### - Starta pico i BOOTSEL mode
-##### - Drag & drop CircuitPython uf2 fil till Pico
-##### - Kopiera mappen "lib/adafruit_hid" -> Pico "/lib"
-##### - Kopiera code.py & boot.py till Pico
-##### - Starta om
+### - Starta pico i BOOTSEL mode
+### - Drag & drop CircuitPython uf2 fil till Pico
+### - Kopiera mappen "lib/adafruit_hid" -> Pico "/lib"
+### - Kopiera code.py & boot.py till Pico
+### - Starta om
 
-##### Att fixa
+### Att fixa
 * Handtag
 * Bottenplatta i trä (8-9cm) X 9cm
 * Minst 8st skruv (3mm breda hål)

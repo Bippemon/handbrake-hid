@@ -20,6 +20,10 @@ Kontrollen håller in Spacebar när man håller joystick över threshold åt "h�
 
 
 ## Step by step
+##### - Kopplingar Joystick -> Pico
+* GND -> Ground
+* +5V -> 3V3
+* VRX -> GPIO27
 ##### - Ladda ner CircuitPython + CircuitPython library
 * CircuitPython - https://circuitpython.org/board/raspberry_pi_pico/
 * CircuitPython library - https://circuitpython.org/libraries
